@@ -1,0 +1,15 @@
+D:\Projects\CicleCiDemo\bin\Debug\netcoreapp3.0\CicleCiDemo.exe
+D:\Projects\CicleCiDemo\bin\Debug\netcoreapp3.0\CicleCiDemo.deps.json
+D:\Projects\CicleCiDemo\bin\Debug\netcoreapp3.0\CicleCiDemo.runtimeconfig.json
+D:\Projects\CicleCiDemo\bin\Debug\netcoreapp3.0\CicleCiDemo.runtimeconfig.dev.json
+D:\Projects\CicleCiDemo\bin\Debug\netcoreapp3.0\CicleCiDemo.dll
+D:\Projects\CicleCiDemo\bin\Debug\netcoreapp3.0\CicleCiDemo.pdb
+D:\Projects\CicleCiDemo\obj\Debug\netcoreapp3.0\CicleCiDemo.csprojAssemblyReference.cache
+D:\Projects\CicleCiDemo\obj\Debug\netcoreapp3.0\CicleCiDemo.csproj.CoreCompileInputs.cache
+D:\Projects\CicleCiDemo\obj\Debug\netcoreapp3.0\CicleCiDemo.RazorAssemblyInfo.cache
+D:\Projects\CicleCiDemo\obj\Debug\netcoreapp3.0\CicleCiDemo.RazorAssemblyInfo.cs
+D:\Projects\CicleCiDemo\obj\Debug\netcoreapp3.0\CicleCiDemo.AssemblyInfoInputs.cache
+D:\Projects\CicleCiDemo\obj\Debug\netcoreapp3.0\CicleCiDemo.AssemblyInfo.cs
+D:\Projects\CicleCiDemo\obj\Debug\netcoreapp3.0\CicleCiDemo.RazorTargetAssemblyInfo.cache
+D:\Projects\CicleCiDemo\obj\Debug\netcoreapp3.0\CicleCiDemo.dll
+D:\Projects\CicleCiDemo\obj\Debug\netcoreapp3.0\CicleCiDemo.pdb
